@@ -7,8 +7,8 @@
 <!--dash board bellow, info if star and others---->
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vycttor&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&bg_color=0d1117" alt="Vycttor Github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vycttor&layout=compact&hide_border=true&title_color=FFD700&text_color=FFD700&bg_color=0d1117" />
-</div>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vycttor&layout=compact&hide_border=true&title_color=FFD700&text_color=00bfbf&bg_color=0d1117" />
+
 
 <!----Graphic of commit 15e5a6---->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vycttor&bg_color=000000&color=FFD700&line=FFD700&point=FFD700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
