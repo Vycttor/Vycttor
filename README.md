@@ -4,7 +4,7 @@
 <!----This part is about the presentation
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Victor;I+am+from+São+Paulo,+SP;I+study+analysis+and+systems+development+at+Unisa;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 -->
-https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif
+
 Olá, sou **Victor**, estudante de **Análise e Desenvolvimento de Sistemas**.
 
 Como um profissional em **transição de carreira**, sigo em constante aprimoramento, dedicando-me a **estudar** e me **especializar** em novas **stacks** (tecnologias).
