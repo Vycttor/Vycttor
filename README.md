@@ -9,11 +9,14 @@ Olá, sou **Victor**, estudante de **Análise e Desenvolvimento de Sistemas**.
 
 Como um profissional em **transição de carreira**, sigo em constante aprimoramento, dedicando-me a **estudar** e me **especializar** em novas **stacks** (tecnologias).
 
+
 <!--dashboard bellow, info if star and others---->
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vycttor&show_icons=true&count_private=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&bg_color=0d1117" alt="Vycttor Github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vycttor&layout=compact&hide_border=true&title_color=FFD700&text_color=00bfbf&bg_color=0d1117" />
-
+  
+##### Stacks que estou estudando.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!----Graphic of commit 15e5a6---->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vycttor&bg_color=000000&color=FFD700&line=FFD700&point=FFD700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
