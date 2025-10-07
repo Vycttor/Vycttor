@@ -8,7 +8,7 @@
 <h1 align="center">Olá, sou Victor.</h1>
 <h3>Sou, estudante de Análise e Desenvolvimento de Sistemas</h3>
 
-Como um profissional em **transição de carreira**, sigo em constante aprimoramento, dedicando-me a **estudar** e me **especializar** em novas **stacks** (tecnologias).
+- 🌱 Como um profissional em **transição de carreira**, sigo em constante aprimoramento, dedicando-me a **estudar** e me **especializar** em novas **stacks** (tecnologias).
 
 ### Stacks que estou estudando.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
